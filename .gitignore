@@ -1,0 +1,11 @@
+*.iso
+Start-WinPEToolkitGui.[1-9]*.ps1
+Start-WinPEToolkitGui.[1-9][0-9]*.ps1
+Start-WinPEToolkitGui.md
+WinPEToolkit.log
+Boot_WIM_Mount/
+WinPE_Build/
+Features/TightVNC/
+Features/Drivers/
+Features/Explorer++/
+Features/Extra/
